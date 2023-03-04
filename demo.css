@@ -1,22 +1,27 @@
 h1 {
-	color: red;
 	text-align: center;
+	font-size: 20px;
 }
 p{
 	text-align: center;
+	color: #110000;
+	font-weight: 700;
 }
 h2 {
-	color: blue;
 	text-align: center;
-	border: 1px solid red;
-	background: white;
+	margin: 0 auto;
+    width: 200px;
+    background: rgba(0,0,0,0.5);;
+    color: #FF0000;
+    padding: 20px;
+    border: 1px solid #330099;
+    font-weight: 500;
 }
-h3 {
-	color: white;
+h3{
 	text-align: center;
 }
 html {
-	background: url('https://thuthuatphanmem.vn/uploads/2018/06/18/hinh-nen-laptop-full-hd-tia-nang-trong-khu-rung-ram-dep_034810757.jpg');
+	background: url("https://anhdepfree.com/wp-content/uploads/2020/11/hinh-nen-dep-ve-nuoc.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
 }	
